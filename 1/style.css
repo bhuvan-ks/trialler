@@ -1,0 +1,35 @@
+*{
+    background-color: black;
+}
+
+#Snake-h1{
+    color: green;
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.startingscreen-btn{
+    color: green;
+    background-color: rgb(26, 25, 25);
+    height: 110px;
+    width: 260px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 21px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.startingscreen-btn:hover{
+    cursor: pointer;
+    background-color: rgb(48, 48, 48);
+    width: 290px;
+}
+
+.startingscreen-btn:active{
+    background-color: rgb(70, 70, 70);
+}
+
+#button-holder{
+    text-align: center;
+}
